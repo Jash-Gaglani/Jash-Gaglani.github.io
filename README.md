@@ -12,11 +12,11 @@ I am from Gujarat.My areas of interests include Public Speaking and Risk Managem
 2019-2020|10th|Saint Paul's School  
 2021-2022|12th|LBS School   
 ***
-#Course@IIT Goa      
+# Course@IIT Goa      
 - **Software Tools** CS102 *Clint George*  [Link To Course](https://classroom.google.com/u/1/c/NTk1MTg5ODUxNDcz)       
 - **Engineering Graphics** ME102 *Arinam Das*   
 ***
-#Hobbies and Interests   
+# Hobbies and Interests   
 >Hobbies   
 >> Trading and Programming 
 
