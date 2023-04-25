@@ -3,7 +3,7 @@
 # About Me   
 Name : Jash Gaglani  
 Profile Picture  
-!["Profile Picture"(https://www.google.com/url?q=https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm%23query%3Dcartoon%2520face%26position%3D4%26from_view%3Dkeyword%26track%3Dais&sa=D&source=docs&ust=1682406099220009&usg=AOvVaw2omYTbzOwY9mDmvulXdr3L)]   
+!["Profile Picture"](https://www.google.com/url?q=https://www.freepik.com/free-vector/it-takes-two-tango-idiom_2956131.htm%23query%3Dcartoon%2520face%26position%3D4%26from_view%3Dkeyword%26track%3Dais&sa=D&source=docs&ust=1682406099220009&usg=AOvVaw2omYTbzOwY9mDmvulXdr3L)   
 
 Short Descripition     
 I am from Gujarat.My areas of interests include Public Speaking and Risk Management.
@@ -18,7 +18,8 @@ I am from Gujarat.My areas of interests include Public Speaking and Risk Managem
 ***
 #Hobbies and Interests   
 >Hobbies   
->> Trading and Programming   
+>> Trading and Programming 
+
 >Interests  
->> Public Speaking and Risk Management   
+>> Public Speaking and Risk Management    
 ***
